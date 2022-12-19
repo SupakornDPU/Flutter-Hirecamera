@@ -12,7 +12,7 @@ class TransferScreen extends StatelessWidget {
   Widget build(BuildContext context) {
       return MaterialApp(
       theme: ThemeData(
-       primarySwatch: Colors.grey,
+      primarySwatch: Colors.grey,
       ),
       home: const Transfer(),
     );

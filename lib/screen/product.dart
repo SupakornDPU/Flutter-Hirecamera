@@ -4,7 +4,6 @@ import 'package:project/screen/product_category.dart';
 import 'product_details.dart';
 
 // ! Cannon
-
 class canonscreen extends StatefulWidget {
   const canonscreen({super.key});
 
