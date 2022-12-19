@@ -379,7 +379,9 @@ class _goproscreenState extends State<goproscreen> {
                   children: [
                     // Container ซ้าย
                     Container(
-                      decoration: const BoxDecoration(color: Color(0xFFECEFF1)),
+                      decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(10),
+                          color: Color(0xFF3F4E4F)),
                       height: 150,
                       width: 180,
                       child: Column(
@@ -395,7 +397,9 @@ class _goproscreenState extends State<goproscreen> {
 
                     // Container ขวา
                     Container(
-                      decoration: const BoxDecoration(color: Color(0xFFECEFF1)),
+                      decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(10),
+                          color: Color(0xFF3F4E4F)),
                       height: 150,
                       width: 180,
                       child: Column(
@@ -454,7 +458,9 @@ B450.00 บาท/วัน''',
                   children: [
                     // Container ซ้าย
                     Container(
-                      decoration: const BoxDecoration(color: Color(0xFFECEFF1)),
+                      decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(10),
+                          color: Color(0xFF3F4E4F)),
                       height: 150,
                       width: 180,
                       child: Column(
@@ -470,7 +476,9 @@ B450.00 บาท/วัน''',
 
                     // Container ขวา
                     Container(
-                      decoration: const BoxDecoration(color: Color(0xFFECEFF1)),
+                      decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(10),
+                          color: Color(0xFF3F4E4F)),
                       height: 150,
                       width: 180,
                       child: Column(
@@ -594,7 +602,9 @@ class _sonyscreenState extends State<sonyscreen> {
                   children: [
                     // Container ซ้าย
                     Container(
-                      decoration: const BoxDecoration(color: Color(0xFFECEFF1)),
+                      decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(10),
+                          color: Color(0xFF3F4E4F)),
                       height: 150,
                       width: 180,
                       child: Column(
@@ -610,7 +620,9 @@ class _sonyscreenState extends State<sonyscreen> {
 
                     // Container ขวา
                     Container(
-                      decoration: const BoxDecoration(color: Color(0xFFECEFF1)),
+                      decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(10),
+                          color: Color(0xFF3F4E4F)),
                       height: 150,
                       width: 180,
                       child: Column(
@@ -669,7 +681,9 @@ B1,600.00 บาท/วัน''',
                   children: [
                     // Container ซ้าย
                     Container(
-                      decoration: const BoxDecoration(color: Color(0xFFECEFF1)),
+                      decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(10),
+                          color: Color(0xFF3F4E4F)),
                       height: 150,
                       width: 180,
                       child: Column(
@@ -685,7 +699,9 @@ B1,600.00 บาท/วัน''',
 
                     // Container ขวา
                     Container(
-                      decoration: const BoxDecoration(color: Color(0xFFECEFF1)),
+                      decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(10),
+                          color: Color(0xFF3F4E4F)),
                       height: 150,
                       width: 180,
                       child: Column(
@@ -744,7 +760,9 @@ B350.00 บาท/วัน''',
                   children: [
                     // Container ซ้าย
                     Container(
-                      decoration: const BoxDecoration(color: Color(0xFFECEFF1)),
+                      decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(10),
+                          color: Color(0xFF3F4E4F)),
                       height: 150,
                       width: 180,
                       child: Column(
@@ -760,7 +778,9 @@ B350.00 บาท/วัน''',
 
                     // Container ขวา
                     Container(
-                      decoration: const BoxDecoration(color: Color(0xFFECEFF1)),
+                      decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(10),
+                          color: Color(0xFF3F4E4F)),
                       height: 150,
                       width: 180,
                       child: Column(
